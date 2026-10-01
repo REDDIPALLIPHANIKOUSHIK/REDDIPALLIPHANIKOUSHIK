@@ -3,7 +3,7 @@
 **AI/ML Engineer | Generative AI | RAG Systems | LLM Applications**
 
 Final-year Computer Science Engineering (AI/ML) student at **SRM Institute of Science and Technology**, Chennai.  
-CGPA: **9.11/10** | Building production-grade AI systems.
+| Building production-grade AI systems.
 
 I design and deploy **end-to-end AI solutions**—from retrieval-augmented generation pipelines to multimodal Generative AI applications. I'm currently seeking opportunities as an **AI/ML Engineer** or **Generative AI Engineer**.
 
